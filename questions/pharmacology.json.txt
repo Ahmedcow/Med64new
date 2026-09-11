@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "id": "pharm-001",
+      "module": "Pharmacology",
+      "subject": "Autonomic Drugs",
+      "lecture": "Adrenergic Agonists",
+      "question": "Which receptor is primarily responsible for vascular smooth muscle contraction upon epinephrine administration?",
+      "options": [
+        "Alpha-1",
+        "Beta-2",
+        "M2",
+        "Nicotinic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alpha-1 adrenergic receptors mediate vasoconstriction in vascular smooth muscle."
+    }
+  ]
+}
+
