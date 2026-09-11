@@ -1,0 +1,219 @@
+[
+  {
+    "id": "us-Anatomy01",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "Which muscle is NOT part of the posterior abdominal wall?",
+    "options": [
+      "Psoas major",
+      "Iliacus",
+      "Rectus abdominis",
+      "Quadratus lumborum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rectus abdominis is part of the anterior abdominal wall, whereas psoas major, iliacus, and quadratus lumborum form the posterior abdominal wall."
+  },
+  {
+    "id": "us-Anatomy02",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "What is the primary action of the psoas major muscle?",
+    "options": [
+      "Extension of the hip",
+      "Flexion of the thigh and lumbar vertebral column",
+      "Abduction of the thigh",
+      "Rotation of the lumbar spine"
+    ],
+    "correctIndex": 1,
+    "explanation": "The primary action of the psoas major muscle is flexion of the thigh at the hip joint and flexion of the trunk."
+  },
+  {
+    "id": "us-Anatomy03",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "Where does the iliacus muscle insert?",
+    "options": [
+      "Greater trochanter of the femur",
+      "Lesser trochanter of the femur",
+      "Iliac crest",
+      "Pubic symphysis"
+    ],
+    "correctIndex": 1,
+    "explanation": "The iliacus muscle joins the psoas major tendon to insert into the lesser trochanter of the femur."
+  },
+  {
+    "id": "us-Anatomy04",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "Which nerve innervates the quadratus lumborum muscle?",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Subcostal nerve and lumbar spinal nerves (T12-L4)",
+      "Sciatic nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quadratus lumborum is innervated by the subcostal nerve (T12) and ventral rami of lumbar spinal nerves (L1-L4)."
+  },
+  {
+    "id": "us-Anatomy05",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "What is the primary function of the quadratus lumborum muscle?",
+    "options": [
+      "Flexion of the thigh",
+      "Lateral flexion of the vertebral column",
+      "Extension of the lumbar spine",
+      "Rotation of the hip"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acting unilaterally, the quadratus lumborum produces lateral flexion of the vertebral column."
+  },
+  {
+    "id": "us-Anatomy06",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "What is the origin of the quadratus lumborum muscle?",
+    "options": [
+      "Iliac crest and iliolumbar ligament",
+      "Transverse processes of L1-L5",
+      "Anterior superior iliac spine",
+      "Pubic tubercle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quadratus lumborum originates from the posterior part of the iliac crest and the iliolumbar ligament."
+  },
+  {
+    "id": "us-Anatomy07",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "Which spinal nerves contribute to the lumbar plexus?",
+    "options": [
+      "T12-L3",
+      "L1-L4",
+      "L2-L5",
+      "L3-S1"
+    ],
+    "correctIndex": 1,
+    "explanation": "The lumbar plexus is formed by the ventral rami of L1 through L4 spinal nerves."
+  },
+  {
+    "id": "us-Anatomy08",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "A bony attachment of the quadratus lumborum muscle is the:",
+    "options": [
+      "Iliac crest",
+      "Iliac fossa",
+      "Lesser trochanter",
+      "Iliopubic eminence",
+      "Eleventh rib"
+    ],
+    "correctIndex": 0,
+    "explanation": "The iliac crest serves as the inferior bony origin of the quadratus lumborum muscle."
+  },
+  {
+    "id": "us-Anatomy09",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "A bony attachment of the psoas minor muscle is the:",
+    "options": [
+      "Iliac crest",
+      "Iliac fossa",
+      "Lesser trochanter",
+      "Iliopubic eminence",
+      "Eleventh rib"
+    ],
+    "correctIndex": 3,
+    "explanation": "Psoas minor inserts onto the pectineal line of the pubis and the iliopubic eminence."
+  },
+  {
+    "id": "us-Anatomy10",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "A bony attachment of the psoas major muscle is the:",
+    "options": [
+      "Iliac crest",
+      "Iliac fossa",
+      "Lesser trochanter",
+      "Iliopubic eminence",
+      "Eleventh rib"
+    ],
+    "correctIndex": 2,
+    "explanation": "Psoas major inserts into the lesser trochanter of the femur alongside iliacus."
+  },
+  {
+    "id": "us-Anatomy11",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "Extension of trunk is done by:",
+    "options": [
+      "Psoas major",
+      "Psoas minor",
+      "Iliacus",
+      "Quadratus lumborum",
+      "Rectus abdominis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bilateral contraction of the quadratus lumborum assists in extension of the lumbar vertebral column."
+  },
+  {
+    "id": "us-Anatomy12",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "Regarding the psoas major muscle, what is true?",
+    "options": [
+      "Takes origin from the 12th rib",
+      "Is supplied partially by L2,3 nerves",
+      "Is inserted in greater trochanter of femur",
+      "Is a powerful extensor of the thigh",
+      "Acting on both sides, it extends the trunk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psoas major receives direct segmental innervation from the anterior rami of L1, L2, and L3 spinal nerves."
+  },
+  {
+    "id": "us-Anatomy13",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "Which of the following muscles is supplied by femoral nerve:",
+    "options": [
+      "Psoas major",
+      "Psoas minor",
+      "Iliacus",
+      "Quadratus lumborum",
+      "Rectus abdominis"
+    ],
+    "correctIndex": 2,
+    "explanation": "The iliacus muscle is innervated by branches from the femoral nerve (L2-L4)."
+  },
+  {
+    "id": "us-Anatomy14",
+    "module": "US",
+    "subject": "Anatomy",
+    "lecture": "Lec1",
+    "question": "What is wrong concerning lumbar plexus?",
+    "options": [
+      "It arises from upper 4 lumbar nerves",
+      "It lies within psoas major",
+      "Genitofemoral nerve passes lateral to psoas major",
+      "Obturator nerve passes medial to psoas major",
+      "It supplies quadratus lumborum"
+    ],
+    "correctIndex": 2,
+    "explanation": "The genitofemoral nerve emerges on the anterior surface of the psoas major muscle, rather than lateral to it."
+  }
+]
