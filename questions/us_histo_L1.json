@@ -1,0 +1,322 @@
+[
+  {
+    "id": "us-histo01",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "Which of the following describes the structure of the kidney?",
+    "options": [
+      "The kidney is divided into a single layer of parenchyma.",
+      "The kidney contains a medulla on the outer surface and a cortex in the center.",
+      "The cortex is the outer part, and the medulla is the inner part of the kidney.",
+      "The kidney consists of only the renal corpuscle and nephron.",
+      "The cortex and medulla are functionally indistinguishable."
+    ],
+    "correctIndex": 2,
+    "explanation": "The kidney parenchyma is organized into an outer cortical region and an inner medullary region."
+  },
+  {
+    "id": "us-histo02",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "What is the Renal Column of Bertini?",
+    "options": [
+      "A section of the medulla that divides the parenchyma.",
+      "A part of the cortex that extends between the renal pyramids.",
+      "A special part of the renal corpuscle responsible for filtration.",
+      "A layer in the renal corpuscle that contains capillaries.",
+      "A layer that protects the glomerular wall from external damage."
+    ],
+    "correctIndex": 1,
+    "explanation": "Renal columns (of Bertini) are extensions of cortical tissue that project inward between adjacent medullary pyramids."
+  },
+  {
+    "id": "us-histo03",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The renal corpuscle is also known as:",
+    "options": [
+      "Bowman's capsule.",
+      "Malpighian corpuscle.",
+      "Bertini's column.",
+      "Glomerular corpuscle.",
+      "Juxtaglomerular apparatus."
+    ],
+    "correctIndex": 1,
+    "explanation": "The renal corpuscle is historically and synonymously known as the Malpighian corpuscle."
+  },
+  {
+    "id": "us-histo04",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The nephron is a key structure in the kidney. Which of the following is correct about its function?",
+    "options": [
+      "It is responsible for oxygen transport within the kidney.",
+      "It controls the movement of sodium ions between the cortex and medulla.",
+      "It acts as the filtration unit of the kidney, starting with the renal corpuscle.",
+      "It synthesizes essential proteins required for the kidney's function.",
+      "It only filters blood and does not contribute to urine formation."
+    ],
+    "correctIndex": 2,
+    "explanation": "The nephron serves as the functional unit of the kidney responsible for filtering blood, beginning at the renal corpuscle."
+  },
+  {
+    "id": "us-histo05",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "What is the role of the outer parietal layer in the renal corpuscle?",
+    "options": [
+      "It filters plasma into the glomerulus.",
+      "It lines Bowman's capsule with simple squamous epith.",
+      "It produces enzymes for renal filtration.",
+      "It transports blood through the nephron.",
+      "It forms part of the nephron's loop."
+    ],
+    "correctIndex": 1,
+    "explanation": "The parietal layer forms the outer wall of Bowman's capsule and consists of simple squamous epithelium."
+  },
+  {
+    "id": "us-histo06",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The inner visceral layer of the renal corpuscle:",
+    "options": [
+      "Is part of the nephron loop.",
+      "Contains specialized cells called podocytes.",
+      "Is a simple squamous epithelium that lines Bowman's capsule.",
+      "Secretes hormones for blood pressure regulation.",
+      "Does not interact with the glomerular basement membrane."
+    ],
+    "correctIndex": 1,
+    "explanation": "The visceral layer of Bowman's capsule directly coats the glomerular capillaries and is composed of specialized cells called podocytes."
+  },
+  {
+    "id": "us-histo07",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "Which of the following is NOT a layer of the glomerular capillary wall?",
+    "options": [
+      "Lamina densa",
+      "Lamina lucida externa",
+      "Lamina lucida interna",
+      "Renal column of Bertini",
+      "Basement membrane"
+    ],
+    "correctIndex": 3,
+    "explanation": "The renal column of Bertini is a macro-anatomical extension of cortical tissue, not a microscopic layer of the glomerular filtration barrier."
+  },
+  {
+    "id": "us-histo08",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The stroma of the kidney refers to:",
+    "options": [
+      "The part responsible for filtration.",
+      "The nephron and glomerulus only.",
+      "The supportive connective tissue framework.",
+      "A specialized unit within the medulla.",
+      "The column of Bertini's structure."
+    ],
+    "correctIndex": 2,
+    "explanation": "Stroma refers to the supporting connective tissue framework of an organ, as opposed to the functional parenchyma."
+  },
+  {
+    "id": "us-histo09",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "What is the correct order of the layers of the glomerular capillary wall from external to internal?",
+    "options": [
+      "Lamina interna, Lamina externa, Lamina densa",
+      "Lamina lucida interna, Lamina densa, Lamina lucida externa",
+      "Lamina externa, Lamina densa, Lamina interna,",
+      "Lamina densa, Lamina lucida externa, Lamina lucida interna",
+      "Lamina interna, Lamina densa, Lamina externa"
+    ],
+    "correctIndex": 2,
+    "explanation": "From the urinary space (external podocyte side) to the capillary lumen (internal endothelial side), the basement membrane consists of lamina lucida externa, lamina densa, and lamina lucida interna."
+  },
+  {
+    "id": "us-histo10",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The nephron drains into which structure?",
+    "options": [
+      "The renal artery",
+      "The renal corpuscle",
+      "The renal tubule",
+      "The renal medulla",
+      "The renal pyramid"
+    ],
+    "correctIndex": 2,
+    "explanation": "The filtrate formed in the renal corpuscle passes directly into and through the renal tubule system."
+  },
+  {
+    "id": "us-histo11",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The cortex proper of the kidney primarily consists of:",
+    "options": [
+      "Glomerular capillaries.",
+      "Renal pyramids.",
+      "Collecting ducts.",
+      "Renal labyrinth around medullary rays",
+      "Bowman's capsule only."
+    ],
+    "correctIndex": 3,
+    "explanation": "The cortex proper is comprised of the renal labyrinth (convoluted tubules and renal corpuscles) surrounding the medullary rays."
+  },
+  {
+    "id": "us-histo12",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "Which statement best describes the renal parenchyma?",
+    "options": [
+      "It is composed entirely of connective tissue.",
+      "It includes the functional parts of the kidney like nephrons.",
+      "It forms the structural framework of the renal medulla.",
+      "It contains only the renal corpuscle.",
+      "It is absent in diseased kidneys."
+    ],
+    "correctIndex": 1,
+    "explanation": "Parenchyma encompasses the functional elements of the kidney, primarily nephrons and collecting ducts."
+  },
+  {
+    "id": "us-histo13",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The thickness of the glomerular capillary wall is primarily due to:",
+    "options": [
+      "The layers of endothelial cells.",
+      "The multiple layers of podocytes.",
+      "The specialized collagen layers within the capillary.",
+      "The thickness of the basement membrane.",
+      "The blood flow in the renal corpuscle."
+    ],
+    "correctIndex": 3,
+    "explanation": "The thick glomerular basement membrane, formed by fused basal laminae, provides the main physical thickness of the filtration barrier."
+  },
+  {
+    "id": "us-histo14",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "What is the primary function of the renal cortex?",
+    "options": [
+      "Storage of urine before excretion.",
+      "Filtration of blood through the nephron.",
+      "Collection of waste products from the renal medulla.",
+      "Secretion of hormones into the bloodstream.",
+      "Regulation of blood pressure."
+    ],
+    "correctIndex": 1,
+    "explanation": "The renal cortex houses all renal corpuscles and proximal/distal convoluted tubules, making it the primary site of blood filtration."
+  },
+  {
+    "id": "us-histo15",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The cortex proper of the kidney primarily consists of:",
+    "options": [
+      "Glomerular capillaries.",
+      "Renal pyramids.",
+      "Collecting ducts.",
+      "Renal labyrinth around medullary rays",
+      "Bowman's capsule only."
+    ],
+    "correctIndex": 3,
+    "explanation": "The cortex proper contains the cortical labyrinth lying between and surrounding the medullary rays."
+  },
+  {
+    "id": "us-histo16",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "Which component is NOT a part of the renal stroma?",
+    "options": [
+      "Connective tissue",
+      "Blood vessels",
+      "Nerves",
+      "Renal tubules",
+      "Collagen fibers"
+    ],
+    "correctIndex": 3,
+    "explanation": "Renal tubules form part of the functional parenchyma of the kidney, whereas connective tissue, blood vessels, and nerves constitute the stroma."
+  },
+  {
+    "id": "us-histo17",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The renal column of Bertini extends between which structures?",
+    "options": [
+      "Renal corpuscles",
+      "Renal pyramids",
+      "Renal cortex and medulla",
+      "Nephrons",
+      "Renal pelvis and cortex"
+    ],
+    "correctIndex": 1,
+    "explanation": "Renal columns of Bertini are regions of renal cortex located between adjacent medullary pyramids."
+  },
+  {
+    "id": "us-histo18",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "The glomerular basement membrane is primarily made of:",
+    "options": [
+      "Simple cuboidal epithelium.",
+      "fusion of two membranes",
+      "Smooth muscle fibers.",
+      "Podocytes and endothelial cells.",
+      "Elastic fibers."
+    ],
+    "correctIndex": 1,
+    "explanation": "The thick glomerular basement membrane is formed by the fusion of the endothelial basal lamina and the podocyte basal lamina."
+  },
+  {
+    "id": "us-histo19",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "Which of the following structures is NOT involved in the formation of the renal corpuscle?",
+    "options": [
+      "Glomerular capillaries",
+      "Bowman's capsule",
+      "Podocytes",
+      "Juxtaglomerular apparatus",
+      "Lamina lucida interna"
+    ],
+    "correctIndex": 3,
+    "explanation": "The renal corpuscle consists specifically of the glomerulus and Bowman's capsule; the juxtaglomerular apparatus is a distinct regulatory structure located at the vascular pole."
+  },
+  {
+    "id": "us-histo20",
+    "module": "US",
+    "subject": "histology",
+    "lecture": "Lec1",
+    "question": "Which layer of the glomerular capillary wall is closest to the blood flow?",
+    "options": [
+      "Lamina externa",
+      "Lamina densa",
+      "Lamina interna",
+      "Lamina lucida externa",
+      "Endothelial cell layer"
+    ],
+    "correctIndex": 4,
+    "explanation": "The inner layer lining the capillary lumen directly in contact with circulating blood is the fenestrated endothelial cell layer."
+  }
+]
