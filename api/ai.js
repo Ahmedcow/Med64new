@@ -5,7 +5,7 @@ export default async function handler(req, res) {
   try {
     const body = req.body || {};
     const action = body.action;
-    const model = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+    const model = process.env.GEMINI_MODEL || "gemini-3.6-flash"; // Gemini 3.6 Flash
     const base = `You are Med64 AI, a medical education assistant. Give educational explanations, not personal medical diagnosis or treatment. Prefer clear, exam-oriented explanations. Do not invent source-specific facts. When generating MCQs, make exactly one defensible correct answer and four distinct options.`;
 
     let prompt = base;
