@@ -1,0 +1,62 @@
+[
+  {
+    "id": "test-001",
+    "module": "Pathology",
+    "subject": "Cell Injury",
+    "lecture": "Lecture 1",
+    "question": "Which cellular change is classically associated with reversible cell injury?",
+    "options": [
+      "Cellular swelling",
+      "Nuclear fragmentation",
+      "Membrane rupture",
+      "Complete mitochondrial destruction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cellular swelling is a classic feature of reversible cell injury."
+  },
+  {
+    "id": "test-002",
+    "module": "Pharmacology",
+    "subject": "Autonomic Drugs",
+    "lecture": "Lecture 2",
+    "question": "Which receptor is primarily activated by norepinephrine?",
+    "options": [
+      "Alpha-1",
+      "Beta-2",
+      "M2",
+      "Nicotinic"
+    ],
+    "correctIndex": 0,
+    "explanation": "Norepinephrine strongly activates alpha-1 receptors."
+  },
+  {
+    "id": "test-003",
+    "module": "Histology",
+    "subject": "Epithelial Tissue",
+    "lecture": "Lecture 3",
+    "question": "Which epithelium is best suited for rapid diffusion?",
+    "options": [
+      "Simple squamous",
+      "Stratified squamous",
+      "Simple cuboidal",
+      "Transitional"
+    ],
+    "correctIndex": 0,
+    "explanation": "Simple squamous epithelium is thin and well suited for diffusion."
+  },
+  {
+    "id": "test-004",
+    "module": "Pathology",
+    "subject": "Inflammation",
+    "lecture": "Lecture 4",
+    "question": "Which leukocyte is typically predominant in acute bacterial inflammation?",
+    "options": [
+      "Neutrophil",
+      "Eosinophil",
+      "Plasma cell",
+      "Lymphocyte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neutrophils are typically the predominant cells in acute bacterial inflammation."
+  }
+]
