@@ -1075,7 +1075,7 @@ function renderAI(){
     <div class="card ai-chat">
       <div class="category-head"><div><strong>Med64 AI Assistant</strong><div class="mini">Ask about your medical study topics, explanations, exam strategy, or your performance.</div></div><span class="pill">AI</span></div>
       <div id="aiMessages" class="ai-messages" style="margin-top:12px"></div>
-      <div class="ai-status" id="aiStatus">AI requests are sent securely through your Vercel server function.</div>
+      <div class="ai-status" id="aiStatus">AI requests are sent through your Vercel server function. Gemini API key stays on the server.</div>
       <div class="ai-compose">
         <textarea id="aiInput" placeholder="Ask a medical study question…"></textarea>
         <button class="btn primary" onclick="sendAIChat()">Send</button>
@@ -1126,7 +1126,7 @@ async function sendAIChat(){
     if(status)status.textContent='Ready';
   }catch(e){
     aiMessages.push({role:'assistant',content:'AI error: '+e.message}); aiSaveMessages(); renderAIMessages();
-    if(status)status.textContent='Check your Vercel/OpenAI setup.';
+    if(status)status.textContent='Check your Vercel/Gemini setup.';
   }
 }
 async function generateAIQuiz(){
