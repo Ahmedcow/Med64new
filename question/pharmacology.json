@@ -1,1 +1,305 @@
+{
+  "questions": [
+    {
+      "id": "us-anat-l2-001",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which nerve prevents Trendelenburg sign by innervating tensor fasciae latae, gluteus medius, and gluteus minimus?",
+      "options": ["Inferior gluteal nerve", "Superior gluteal nerve", "Femoral nerve", "Obturator nerve"],
+      "correctIndex": 1,
+      "explanation": "The superior gluteal nerve innervates gluteus medius and minimus, keeping the pelvis level during single-leg stance."
+    },
+    {
+      "id": "us-anat-l2-002",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Loss of gluteus maximus function results in difficulty performing which of the following activities?",
+      "options": ["Walking on flat ground", "Climbing stairs or rising from a seat", "Adducting the thigh", "Medially rotating the leg"],
+      "correctIndex": 1,
+      "explanation": "Gluteus maximus extends the hip forcibly, necessary for standing up from a chair or climbing stairs."
+    },
+    {
+      "id": "us-anat-l2-003",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Anterior hip dislocation carries the highest risk of damaging which structure?",
+      "options": ["Sciatic nerve", "Femoral nerve / artery", "Inferior gluteal nerve", "Obturator nerve"],
+      "correctIndex": 1,
+      "explanation": "Anterior hip dislocations compromise anterior neurovascular structures, including the femoral nerve and vessels."
+    },
+    {
+      "id": "us-anat-l2-004",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which artery provides the primary blood supply to the femoral head in adults?",
+      "options": ["Obturator artery (foveal branch)", "Medial circumflex femoral artery", "Lateral circumflex femoral artery", "Deep iliac circumflex artery"],
+      "correctIndex": 1,
+      "explanation": "Retinacular branches of the medial circumflex femoral artery provide the main blood supply to the femoral head."
+    },
+    {
+      "id": "us-anat-l2-005",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "A patient with foot drop and loss of sensation over the dorsum of the foot has damage to which nerve?",
+      "options": ["Tibial nerve", "Common fibular nerve", "Deep fibular nerve only", "Saphenous nerve"],
+      "correctIndex": 1,
+      "explanation": "Common fibular nerve injury causes foot drop (deep branch) and dorsal cutaneous sensory loss (superficial branch)."
+    },
+    {
+      "id": "us-anat-l2-006",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which muscle inserts onto the base of the 5th metatarsal and everts the foot?",
+      "options": ["Fibularis longus", "Fibularis brevis", "Tibialis anterior", "Tibialis posterior"],
+      "correctIndex": 1,
+      "explanation": "Fibularis brevis inserts directly into the tuberosity at the base of the fifth metatarsal bone."
+    },
+    {
+      "id": "us-anat-l2-007",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Inability to stand on tiptoes and loss of sensation on the sole of the foot indicates lesion to which nerve?",
+      "options": ["Common fibular nerve", "Tibial nerve", "Superficial fibular nerve", "Saphenous nerve"],
+      "correctIndex": 1,
+      "explanation": "The tibial nerve innervates plantarflexors (gastrocnemius, soleus) and supplies sensation to the sole."
+    },
+    {
+      "id": "us-anat-l2-008",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which structure passes through the saphenous opening in the fascia lata?",
+      "options": ["Femoral artery", "Great saphenous vein", "Femoral nerve", "Small saphenous vein"],
+      "correctIndex": 1,
+      "explanation": "The great saphenous vein ascends medially and drains into the femoral vein via the saphenous opening."
+    },
+    {
+      "id": "us-anat-l2-009",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which ligament prevents anterior displacement of the tibia relative to the femur?",
+      "options": ["Anterior cruciate ligament (ACL)", "Posterior cruciate ligament (PCL)", "Tibial collateral ligament", "Fibular collateral ligament"],
+      "correctIndex": 0,
+      "explanation": "The ACL prevents anterior translation of the tibia on the femur (positive anterior drawer sign)."
+    },
+    {
+      "id": "us-anat-l2-010",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Posterior drawer test positivity in knee examination indicates damage to which structure?",
+      "options": ["ACL", "PCL", "Medial meniscus", "Lateral meniscus"],
+      "correctIndex": 1,
+      "explanation": "The posterior cruciate ligament (PCL) prevents posterior displacement of the tibia relative to the femur."
+    },
+    {
+      "id": "us-anat-l2-011",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which three structures are classically involved in the 'unhappy triad' knee injury?",
+      "options": ["ACL, PCL, LCL", "ACL, MCL, Medial Meniscus", "PCL, MCL, Lateral Meniscus", "ACL, LCL, Medial Meniscus"],
+      "correctIndex": 1,
+      "explanation": "The classic unhappy triad involves tears of the ACL, MCL, and medial meniscus."
+    },
+    {
+      "id": "us-anat-l2-012",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which muscle unlocks the knee joint from full extension by laterally rotating the femur on a fixed tibia?",
+      "options": ["Popliteus", "Plantaris", "Gastrocnemius", "Soleus"],
+      "correctIndex": 0,
+      "explanation": "Popliteus unlocks the knee by laterally rotating the femur (or medially rotating the tibia)."
+    },
+    {
+      "id": "us-anat-l2-013",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "The saphenous nerve is a purely sensory branch originating from which main nerve?",
+      "options": ["Sciatic nerve", "Obturator nerve", "Femoral nerve", "Tibial nerve"],
+      "correctIndex": 2,
+      "explanation": "The saphenous nerve is the terminal cutaneous branch of the femoral nerve supplying the medial leg."
+    },
+    {
+      "id": "us-anat-l2-014",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "A femoral hernia emerges through the femoral ring into the femoral canal, situated medially to what structure?",
+      "options": ["Femoral artery", "Femoral vein", "Femoral nerve", "Inguinal ligament"],
+      "correctIndex": 1,
+      "explanation": "From lateral to medial, the femoral sheath contents are Artery, Vein, Empty space (canal), Lymphatics."
+    },
+    {
+      "id": "us-anat-l2-015",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which of the following muscles is a powerful flexor of the hip and inserts on the lesser trochanter?",
+      "options": ["Iliopsoas", "Rectus femoris", "Sartorius", "Pectineus"],
+      "correctIndex": 0,
+      "explanation": "The iliopsoas (psoas major + iliacus) inserts on the lesser trochanter and is the main hip flexor."
+    },
+    {
+      "id": "us-anat-l2-016",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "The adductor magnus is a dual-innervated muscle supplied by the obturator nerve and which other nerve?",
+      "options": ["Femoral nerve", "Tibial division of sciatic nerve", "Superior gluteal nerve", "Inferior gluteal nerve"],
+      "correctIndex": 1,
+      "explanation": "Adductor magnus has an adductor part (obturator nerve) and a hamstring part (tibial nerve)."
+    },
+    {
+      "id": "us-anat-l2-017",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Sensory loss over the medial aspect of the thigh combined with weakness in thigh adduction points to injury of which nerve?",
+      "options": ["Femoral nerve", "Obturator nerve", "Sciatic nerve", "Genitofemoral nerve"],
+      "correctIndex": 1,
+      "explanation": "The obturator nerve innervates the medial compartment (adductors) and medial thigh skin."
+    },
+    {
+      "id": "us-anat-l2-018",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "The small saphenous vein drains into which deep venous structure posterior to the knee?",
+      "options": ["Femoral vein", "Popliteal vein", "Posterior tibial vein", "Great saphenous vein"],
+      "correctIndex": 1,
+      "explanation": "The small saphenous vein ascends posteriorly along the calf and empties into the popliteal vein."
+    },
+    {
+      "id": "us-anat-l2-019",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which ligament is most frequently injured in excessive inversion ankle sprains?",
+      "options": ["Deltoid ligament", "Anterior talofibular ligament (ATFL)", "Calcaneofibular ligament", "Posterior talofibular ligament"],
+      "correctIndex": 1,
+      "explanation": "The ATFL is the weakest lateral ankle ligament and the first to tear during inversion."
+    },
+    {
+      "id": "us-anat-l2-020",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Eversion ankle injuries risk tearing which strong, multi-part medial ligament group?",
+      "options": ["Spring ligament", "Deltoid ligament", "Plantar fascia", "Bifurcate ligament"],
+      "correctIndex": 1,
+      "explanation": "The deltoid ligament protects against ankle eversion injuries."
+    },
+    {
+      "id": "us-anat-l2-021",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which nerve lies directly behind the lateral malleolus?",
+      "options": ["Sural nerve", "Saphenous nerve", "Deep fibular nerve", "Tibial nerve"],
+      "correctIndex": 0,
+      "explanation": "The sural nerve passes posterior to the lateral malleolus along with the short saphenous vein."
+    },
+    {
+      "id": "us-anat-l2-022",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "The calcaneal (Achilles) tendon reflex tests the functional integrity of which spinal cord levels?",
+      "options": ["L2-L3", "L3-L4", "L5-S1", "S1-S2"],
+      "correctIndex": 3,
+      "explanation": "The Achilles tendon reflex predominantly evaluates the S1 and S2 nerve roots."
+    },
+    {
+      "id": "us-anat-l2-023",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which structure forms the lateral roof border of the popliteal fossa?",
+      "options": ["Semimembranosus", "Semitendinosus", "Biceps femoris", "Gastrocnemius lateral head"],
+      "correctIndex": 2,
+      "explanation": "The biceps femoris muscle forms the superolateral boundary of the popliteal fossa."
+    },
+    {
+      "id": "us-anat-l2-024",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Loss of cutaneous sensation in the first webbed space between the 1st and 2nd toes isolates damage to which nerve?",
+      "options": ["Superficial fibular nerve", "Deep fibular nerve", "Sural nerve", "Saphenous nerve"],
+      "correctIndex": 1,
+      "explanation": "The deep fibular nerve supplies sensory fibers strictly to the skin web space between digits 1 and 2."
+    },
+    {
+      "id": "us-anat-l2-025",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which nerve innervates the fibularis longus and fibularis brevis muscles in the lateral compartment of the leg?",
+      "options": ["Deep fibular nerve", "Superficial fibular nerve", "Tibial nerve", "Common fibular nerve"],
+      "correctIndex": 1,
+      "explanation": "The superficial fibular nerve motor supply is restricted to muscles of the lateral compartment."
+    },
+    {
+      "id": "us-anat-l2-026",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Where can the dorsalis pedis artery pulse be reliably palpated on physical examination?",
+      "options": ["Medial to extensor hallucis longus tendon", "Lateral to extensor hallucis longus tendon", "Behind medial malleolus", "Posterior to lateral malleolus"],
+      "correctIndex": 1,
+      "explanation": "The dorsalis pedis pulse is felt lateral to the extensor hallucis longus tendon on the dorsum of the foot."
+    },
+    {
+      "id": "us-anat-l2-027",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which ligament maintains the medial longitudinal arch of the foot and is known as the 'spring ligament'?",
+      "options": ["Plantar calcaneonavicular ligament", "Long plantar ligament", "Plantar aponeurosis", "Short plantar ligament"],
+      "correctIndex": 0,
+      "explanation": "The plantar calcaneonavicular (spring) ligament supports the head of the talus."
+    },
+    {
+      "id": "us-anat-l2-028",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Tarsal tunnel syndrome involves entrapment and compression of which nerve beneath the flexor retinaculum?",
+      "options": ["Deep fibular nerve", "Tibial nerve", "Medial plantar nerve only", "Sural nerve"],
+      "correctIndex": 1,
+      "explanation": "Tarsal tunnel syndrome is compression of the tibial nerve behind the medial malleolus."
+    },
+    {
+      "id": "us-anat-l2-029",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which muscle of the anterior compartment of the leg dorsiflexes and inverts the foot?",
+      "options": ["Extensor digitorum longus", "Tibialis anterior", "Fibularis tertius", "Extensor hallucis longus"],
+      "correctIndex": 1,
+      "explanation": "Tibialis anterior dorsiflexes and inverts the foot at the ankle joint."
+    },
+    {
+      "id": "us-anat-l2-030",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec2",
+      "question": "Which hamstring muscle inserts onto the head of the fibula?",
+      "options": ["Semimembranosus", "Semitendinosus", "Biceps femoris", "Gracilis"],
+      "correctIndex": 2,
+      "explanation": "The tendon of biceps femoris attaches to the lateral side of the fibular head."
+    }
+  ]
+}
 
