@@ -1,6 +1,7 @@
 {
   "files": [
     "cardiology.json",
-    "pharmacology.json"
+    "pharmacology.json",
+    "us_patho_L1.json"
   ]
 }
