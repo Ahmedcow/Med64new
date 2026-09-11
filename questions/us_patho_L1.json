@@ -1,0 +1,308 @@
+[
+  {
+    "id": "q-001",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Congenital absence of renal tissue affecting one side or both sides is called:",
+    "options": [
+      "Renal aplasia",
+      "Renal agenesis",
+      "Renal hyperplasia",
+      "Renal hypoplasia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Renal agenesis is the complete failure of development of one or both kidneys."
+  },
+  {
+    "id": "q-002",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "One kidney grows larger than usual to work harder to compensate for missing one by:",
+    "options": [
+      "Compensatory hyperplasia.",
+      "Congenital hypertrophy.",
+      "Compensatory hypertrophy.",
+      "Compensatory metaplasia."
+    ],
+    "correctIndex": 2,
+    "explanation": "Compensatory hypertrophy occurs when one kidney enlarges to perform the workload of a missing or non-functional contralateral kidney."
+  },
+  {
+    "id": "q-003",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "In Potter's syndrome, the neonate dies after birth within:",
+    "options": [
+      "Few months.",
+      "Few days.",
+      "Few weeks.",
+      "Few years."
+    ],
+    "correctIndex": 1,
+    "explanation": "Severe pulmonary hypoplasia associated with Potter's syndrome usually results in neonatal death within a few days after birth."
+  },
+  {
+    "id": "q-004",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "The most common site of ectopic kidney is:",
+    "options": [
+      "High abdominal.",
+      "Thoracic.",
+      "Pelvic.",
+      "Low abdominal."
+    ],
+    "correctIndex": 2,
+    "explanation": "The pelvis is the most common site for an ectopic kidney due to failure of normal embryonic ascent."
+  },
+  {
+    "id": "q-005",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "In horseshoe kidney, fusion of both kidneys occurs:",
+    "options": [
+      "At upper pole.",
+      "At hilum.",
+      "At lower pole.",
+      "At one side"
+    ],
+    "correctIndex": 2,
+    "explanation": "In horseshoe kidney, fusion typically occurs at the lower poles across the midline."
+  },
+  {
+    "id": "q-006",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Fluid-filled cysts formed in the renal tubules within the medulla is called:",
+    "options": [
+      "ADPCKD.",
+      "ARPCKD.",
+      "Medullary sponge kidney.",
+      "Oligocystic kidney disease."
+    ],
+    "correctIndex": 2,
+    "explanation": "Medullary sponge kidney is characterized by cystic dilations of the collecting ducts in the renal medulla."
+  },
+  {
+    "id": "q-007",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "The cause of polycystic kidney is:",
+    "options": [
+      "Infection",
+      "Carcinoma",
+      "Genetic inheritance",
+      "Hypertension",
+      "DM"
+    ],
+    "correctIndex": 2,
+    "explanation": "Polycystic kidney diseases are genetic inherited disorders (autosomal dominant or autosomal recessive)."
+  },
+  {
+    "id": "q-008",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Deficiency of which protein leads to ARPKD:",
+    "options": [
+      "Fibronectin",
+      "Cysteine",
+      "Albumin",
+      "Fibrocystin",
+      "Purine."
+    ],
+    "correctIndex": 3,
+    "explanation": "ARPKD is caused by mutations in the PKHD1 gene, which encodes the protein fibrocystin."
+  },
+  {
+    "id": "q-009",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "U shaped both kidneys is called:",
+    "options": [
+      "Horseshoe kidney",
+      "Amalgamated kidney",
+      "No fused kidney",
+      "Ectopic kidney",
+      "Ptosed kidney."
+    ],
+    "correctIndex": 0,
+    "explanation": "The fusion of both kidneys forms a U-shaped structure known as a horseshoe kidney."
+  },
+  {
+    "id": "q-010",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Mutation in which gene of the followings leads to ARPKD:",
+    "options": [
+      "PKD1 gene.",
+      "PKDF2 gene.",
+      "PKHD1 gene.",
+      "PKHD2 gene."
+    ],
+    "correctIndex": 2,
+    "explanation": "Autosomal recessive polycystic kidney disease (ARPKD) is caused by mutations in the PKHD1 gene."
+  },
+  {
+    "id": "q-011",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Portal HTN may associate which of the following kidney diseases:",
+    "options": [
+      "ADPKD.",
+      "ARPKD.",
+      "Medullary sponge kidney.",
+      "Multicystic kidney disease."
+    ],
+    "correctIndex": 1,
+    "explanation": "ARPKD is frequently associated with congenital hepatic fibrosis, leading to portal hypertension."
+  },
+  {
+    "id": "q-012",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "ADPKD can affects which part of nephron:",
+    "options": [
+      "Glomeruli.",
+      "Tubules.",
+      "Collecting ducts",
+      "All of the above."
+    ],
+    "correctIndex": 3,
+    "explanation": "In ADPKD, cysts can develop from any part of the nephron, including glomeruli, tubules, and collecting ducts."
+  },
+  {
+    "id": "q-013",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Herniation of bladder mucosa through defect in bladder muscle is called:",
+    "options": [
+      "Ureterocele.",
+      "VUR.",
+      "Bladder diverticulum.",
+      "Bladder mass."
+    ],
+    "correctIndex": 2,
+    "explanation": "A bladder diverticulum is an outpouching/herniation of the bladder mucosa through a muscular defect."
+  },
+  {
+    "id": "q-014",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "All of the followings are characteristics of cysts in ADPKD except:",
+    "options": [
+      "Multiple.",
+      "variable sized.",
+      "thin walled.",
+      "may communicate with each other.",
+      "may communicate with renal pelvis."
+    ],
+    "correctIndex": 4,
+    "explanation": "Cysts in ADPKD arise as isolated pouches and typically do not communicate with the renal pelvis."
+  },
+  {
+    "id": "q-015",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "What is the probable diagnosis for a newborn with low-set ears, a beaked nose, absent kidneys and ureters, and limb deformities?",
+    "options": [
+      "Renal agenesis",
+      "Ectopic kidney",
+      "Horseshoe kidney",
+      "Polycystic kidney disease"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bilateral renal agenesis results in oligohydramnios and the classic Potter sequence (facial dysmorphism, limb deformities, and absent kidneys)."
+  },
+  {
+    "id": "q-016",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "What is the main characteristic of ectopic kidney?",
+    "options": [
+      "Fusion at the lower end",
+      "Absent kidney",
+      "Failure to ascend into the lumbar region",
+      "Multiple renal cysts"
+    ],
+    "correctIndex": 2,
+    "explanation": "An ectopic kidney fails to migrate/ascend normally to its standard position in the lumbar region during embryogenesis."
+  },
+  {
+    "id": "q-017",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Which syndrome is characterized by a large, thin-walled bladder without evident outlet obstruction?",
+    "options": [
+      "Bladder exstrophy",
+      "Megacystis syndrome",
+      "Renal agenesis",
+      "Neurogenic bladder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Megacystis syndrome presents as a markedly dilated, thin-walled urinary bladder in the absence of mechanical obstruction."
+  },
+  {
+    "id": "q-018",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Which of the following conditions is characterized by cysts affecting only the collecting ducts?",
+    "options": [
+      "Autosomal dominant polycystic kidney disease (ADPKD)",
+      "Autosomal recessive polycystic kidney disease (ARPKD)",
+      "Medullary sponge kidney",
+      "Horseshoe kidney"
+    ],
+    "correctIndex": 1,
+    "explanation": "ARPKD is specifically characterized by dilations and cystic changes localized to the renal collecting ducts."
+  },
+  {
+    "id": "q-019",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "Which of the following diseases is characterized by the presence of cystic swelling and outpouching at the base of the ureter:",
+    "options": [
+      "Bladder diverticulum",
+      "Varicocele",
+      "Encephalocele",
+      "Megacystis syndrome",
+      "Ureterocele"
+    ],
+    "correctIndex": 4,
+    "explanation": "A ureterocele is a cystic dilation of the terminal intravesical portion of the ureter."
+  },
+  {
+    "id": "q-020",
+    "module": "US",
+    "subject": "pathology",
+    "lecture": "Lec1",
+    "question": "The congenital anomaly of U-shaped Kidney is called:",
+    "options": [
+      "Horseshoe kidney",
+      "Amalgamated kidney",
+      "No fused kidney",
+      "Ectopic kidney",
+      "Prosed kidney"
+    ],
+    "correctIndex": 0,
+    "explanation": "A horseshoe kidney is defined by fusion of the renal poles (usually lower), resulting in a characteristic U-shape."
+  }
+]
