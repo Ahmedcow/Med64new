@@ -2,6 +2,8 @@
   "files": [
     "cardiology.json",
     "pharmacology.json",
-    "us_patho_L1.json"
+    "us_patho_L1.json",
+    "us_histo_L1.json",
+    "us_anatomy_L1.json"
   ]
 }
