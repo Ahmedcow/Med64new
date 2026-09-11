@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": "us-anat-l1-001",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which muscle initiates the first 15 degrees of arm abduction at the glenohumeral joint?",
+      "options": ["Deltoid", "Supraspinatus", "Infraspinatus", "Subscapularis"],
+      "correctIndex": 1,
+      "explanation": "The supraspinatus muscle initiates abduction for the first 15 degrees before the deltoid takes over."
+    },
+    {
+      "id": "us-anat-l1-002",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Injury to the axillary nerve most commonly impairs which of the following movements?",
+      "options": ["Arm adduction", "Arm abduction beyond 15 degrees", "Forearm flexion", "Forearm extension"],
+      "correctIndex": 1,
+      "explanation": "The axillary nerve innervates the deltoid muscle, which is responsible for arm abduction beyond 15 degrees."
+    },
+    {
+      "id": "us-anat-l1-003",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which of the following tendon structures is most frequently injured in rotator cuff tears?",
+      "options": ["Supraspinatus", "Infraspinatus", "Teres minor", "Subscapularis"],
+      "correctIndex": 0,
+      "explanation": "The supraspinatus tendon is the most commonly impinged and torn tendon in rotator cuff pathology."
+    },
+    {
+      "id": "us-anat-l1-004",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Winged scapula resulting from long thoracic nerve injury is due to paralysis of which muscle?",
+      "options": ["Trapezius", "Rhomboid major", "Serratus anterior", "Latissimus dorsi"],
+      "correctIndex": 2,
+      "explanation": "The long thoracic nerve innervates the serratus anterior muscle, which holds the scapula against the thoracic wall."
+    },
+    {
+      "id": "us-anat-l1-005",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which nerve travels through the anatomical snuffbox and is at risk during scaphoid fractures?",
+      "options": ["Superficial branch of radial nerve", "Deep branch of ulnar nerve", "Median nerve", "Anterior interosseous nerve"],
+      "correctIndex": 0,
+      "explanation": "The superficial branch of the radial nerve crosses the anatomical snuffbox, along with the radial artery."
+    },
+    {
+      "id": "us-anat-l1-006",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Fracture of the surgical neck of the humerus threatens which artery?",
+      "options": ["Brachial artery", "Posterior circumflex humeral artery", "Profunda brachii artery", "Radial collateral artery"],
+      "correctIndex": 1,
+      "explanation": "The posterior circumflex humeral artery and axillary nerve run together around the surgical neck of the humerus."
+    },
+    {
+      "id": "us-anat-l1-007",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Mid-shaft humeral fractures are classically associated with damage to which nerve?",
+      "options": ["Musculocutaneous nerve", "Axillary nerve", "Radial nerve", "Ulnar nerve"],
+      "correctIndex": 2,
+      "explanation": "The radial nerve runs in the radial groove along the mid-shaft of the humerus."
+    },
+    {
+      "id": "us-anat-l1-008",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which of the following nerves passes posterior to the medial epicondyle of the humerus?",
+      "options": ["Median nerve", "Radial nerve", "Ulnar nerve", "Axillary nerve"],
+      "correctIndex": 2,
+      "explanation": "The ulnar nerve passes posterior to the medial epicondyle in the cubital tunnel."
+    },
+    {
+      "id": "us-anat-l1-009",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "A patient unable to flex the proximal interphalangeal joints of digits 1-3 likely has damage to which nerve?",
+      "options": ["Median nerve", "Ulnar nerve", "Radial nerve", "Axillary nerve"],
+      "correctIndex": 0,
+      "explanation": "The median nerve innervates flexor digitorum superficialis, responsible for PIP joint flexion."
+    },
+    {
+      "id": "us-anat-l1-010",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Compression of the median nerve within the carpal tunnel spares cutaneous sensation over which region?",
+      "options": ["Palmar aspect of thumb", "Palmar aspect of index finger", "Thenar eminence", "Palmar aspect of middle finger"],
+      "correctIndex": 2,
+      "explanation": "The palmar cutaneous branch of the median nerve arises proximal to the carpal tunnel and passes superficial to it."
+    },
+    {
+      "id": "us-anat-l1-011",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which structure forms the lateral border of the anatomical snuffbox?",
+      "options": ["Extensor pollicis longus", "Abductor pollicis longus and extensor pollicis brevis", "Flexor carpi radialis", "Extensor indicis"],
+      "correctIndex": 1,
+      "explanation": "The tendons of abductor pollicis longus and extensor pollicis brevis form the anterior/lateral boundary of the anatomical snuffbox."
+    },
+    {
+      "id": "us-anat-l1-012",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "A fracture of the hook of the hamate typically injures which motor structure in the hand?",
+      "options": ["Recurrent branch of median nerve", "Deep branch of ulnar nerve", "Superficial radial nerve", "Musculocutaneous nerve"],
+      "correctIndex": 1,
+      "explanation": "The deep branch of the ulnar nerve passes adjacent to the hook of the hamate in Guyon's canal."
+    },
+    {
+      "id": "us-anat-l1-013",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Loss of forearm flexion when the forearm is in a mid-pronated position indicates injury to which nerve?",
+      "options": ["Musculocutaneous nerve", "Radial nerve", "Median nerve", "Ulnar nerve"],
+      "correctIndex": 1,
+      "explanation": "The brachioradialis flexes the forearm when semi-pronated and is innervated by the radial nerve."
+    },
+    {
+      "id": "us-anat-l1-014",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which muscle is the principal medial rotator of the arm at the shoulder joint?",
+      "options": ["Subscapularis", "Infraspinatus", "Teres minor", "Supraspinatus"],
+      "correctIndex": 0,
+      "explanation": "Subscapularis inserts onto the lesser tubercle of the humerus and acts as the primary medial rotator."
+    },
+    {
+      "id": "us-anat-l1-015",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "An Erb-Duchenne palsy ('waiter's tip' posture) results from damage to which brachial plexus roots?",
+      "options": ["C5-C6", "C7-C8", "C8-T1", "C5-T1"],
+      "correctIndex": 0,
+      "explanation": "Erb-Duchenne palsy involves damage to the upper trunk of the brachial plexus (C5-C6 roots)."
+    },
+    {
+      "id": "us-anat-l1-016",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Klumpke palsy causes a 'claw hand' deformity due to injury to which roots of the brachial plexus?",
+      "options": ["C5-C6", "C6-C7", "C8-T1", "C5-C7"],
+      "correctIndex": 2,
+      "explanation": "Lower trunk brachial plexus injuries (C8-T1) cause Klumpke palsy, affecting intrinsic hand muscles."
+    },
+    {
+      "id": "us-anat-l1-017",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which muscle adducts and medially rotates the humerus and is innervated by the thoracodorsal nerve?",
+      "options": ["Pectoralis major", "Latissimus dorsi", "Teres major", "Coracobrachialis"],
+      "correctIndex": 1,
+      "explanation": "Latissimus dorsi extends, adducts, and medially rotates the arm; it is innervated by the thoracodorsal nerve."
+    },
+    {
+      "id": "us-anat-l1-018",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which artery accompanies the radial nerve in the radial groove of the humerus?",
+      "options": ["Brachial artery", "Profunda brachii artery", "Anterior circumflex humeral artery", "Radial recurrent artery"],
+      "correctIndex": 1,
+      "explanation": "The profunda brachii artery travels alongside the radial nerve along the posterior shaft of the humerus."
+    },
+    {
+      "id": "us-anat-l1-019",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "At which point does the subclavian artery officially change its name to the axillary artery?",
+      "options": ["Inferior border of teres major", "Lateral border of 1st rib", "Clavicle midpoint", "Superior border of pectoralis minor"],
+      "correctIndex": 1,
+      "explanation": "The subclavian artery becomes the axillary artery at the lateral margin of the first rib."
+    },
+    {
+      "id": "us-anat-l1-020",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which muscle forms the apex/floor of the cubital fossa laterally?",
+      "options": ["Pronator teres", "Brachioradialis", "Brachialis", "Biceps brachii"],
+      "correctIndex": 1,
+      "explanation": "The cubital fossa is bounded medially by pronator teres and laterally by brachioradialis."
+    },
+    {
+      "id": "us-anat-l1-021",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Injury to the anterior interosseous nerve leads to inability to perform which action?",
+      "options": ["Make an 'OK' sign with thumb and index finger", "Abduct the thumb", "Extend digits 2-5", "Adduct the pinky finger"],
+      "correctIndex": 0,
+      "explanation": "Anterior interosseous nerve innervates FPL and FDP to digit 2, essential for pinching/making an 'OK' sign."
+    },
+    {
+      "id": "us-anat-l1-022",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Loss of sensation on the lateral aspect of the forearm indicates lesion of which cutaneous nerve?",
+      "options": ["Lateral antebrachial cutaneous nerve", "Medial antebrachial cutaneous nerve", "Posterior antebrachial cutaneous nerve", "Superficial radial nerve"],
+      "correctIndex": 0,
+      "explanation": "The lateral antebrachial cutaneous nerve is the terminal sensory continuation of the musculocutaneous nerve."
+    },
+    {
+      "id": "us-anat-l1-023",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which carpal bone is most frequently dislocation anteriorly into the carpal tunnel?",
+      "options": ["Scaphoid", "Lunate", "Capitate", "Hamate"],
+      "correctIndex": 1,
+      "explanation": "Dislocation of the lunate bone occurs anteriorly and can cause acute carpal tunnel compression."
+    },
+    {
+      "id": "us-anat-l1-024",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which intrinsic hand muscle group is innervated by the recurrent branch of the median nerve?",
+      "options": ["Hypothenar muscles", "Thenar muscles", "Adductor pollicis", "Dorsal interossei"],
+      "correctIndex": 1,
+      "explanation": "The recurrent branch of the median nerve innervates FPB, APB, and OP (thenar group)."
+    },
+    {
+      "id": "us-anat-l1-025",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which interosseous muscles are responsible for finger abduction away from the axial line?",
+      "options": ["Palmar interossei", "Dorsal interossei", "Lumbricoideals", "Hypothenar group"],
+      "correctIndex": 1,
+      "explanation": "Dorsal interossei abduct the digits ('DAB'), whereas palmar interossei adduct ('PAD')."
+    },
+    {
+      "id": "us-anat-l1-026",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "What is the primary action of the lumbrical muscles at the metacarpophalangeal (MCP) joints?",
+      "options": ["Extension", "Flexion", "Abduction", "Adduction"],
+      "correctIndex": 1,
+      "explanation": "Lumbricals flex MCP joints and extend proximal/distal interphalangeal joints."
+    },
+    {
+      "id": "us-anat-l1-027",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Supracondylar fracture of the humerus anteromedially threatens which major vascular structure?",
+      "options": ["Brachial artery", "Radial artery", "Ulnar artery", "Deep brachial artery"],
+      "correctIndex": 0,
+      "explanation": "Anteromedial displacement in supracondylar humeral fractures can injure the brachial artery and median nerve."
+    },
+    {
+      "id": "us-anat-l1-028",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which cord of the brachial plexus gives rise to the musculocutaneous nerve?",
+      "options": ["Lateral cord", "Medial cord", "Posterior cord", "Anterior cord"],
+      "correctIndex": 0,
+      "explanation": "The musculocutaneous nerve arises directly from the lateral cord of the brachial plexus."
+    },
+    {
+      "id": "us-anat-l1-029",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "Which superficial vein drains the lateral side of the upper limb into the axillary vein?",
+      "options": ["Basilic vein", "Cephalic vein", "Median cubital vein", "Brachial vein"],
+      "correctIndex": 1,
+      "explanation": "The cephalic vein travels on the lateral side of the arm and pierces the clavipectoral fascia to enter the axillary vein."
+    },
+    {
+      "id": "us-anat-l1-030",
+      "module": "US",
+      "subject": "Anatomy",
+      "lecture": "Lec1",
+      "question": "The tendon of which biceps head passes through the intertubercular groove of the humerus?",
+      "options": ["Short head", "Long head", "Medial head", "Lateral head"],
+      "correctIndex": 1,
+      "explanation": "The long head tendon of the biceps brachii passes through the intertubercular (bicipital) sulcus."
+    }
+  ]
+}
